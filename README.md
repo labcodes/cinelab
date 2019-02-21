@@ -9,4 +9,4 @@ Repositório das palestras/videos que assistimos no #cinel
 # Sugestões
 Sugestões para as próximas sessões do #CINELAB
 
-1. 
+1.  "Uncle" Bob Martin - "The Future of Programming" (2016) - https://www.youtube.com/watch?v=ecIWPzGEbFc
