@@ -10,3 +10,4 @@ Repositório das palestras/videos que assistimos no #cinelab
 Sugestões para as próximas sessões do #CINELAB
 
 1.  "Uncle" Bob Martin - "The Future of Programming" (2016) - https://www.youtube.com/watch?v=ecIWPzGEbFc
+2.  Lynn Root - "asyncio in Practive: We Did it Wrong" (2018) - https://www.youtube.com/watch?v=1lJDZx6f6tY
