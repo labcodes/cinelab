@@ -1,10 +1,5 @@
-# cinelab
-Repositório das palestras/videos que assistimos no #cinelab
-
-1. The economics of Software Design (22 de janeiro de 2019) - https://www.youtube.com/watch?v=TQ9rng6YFeY
-2. Simple made easy (12 de fevereiro de 2019) - https://www.infoq.com/presentations/Simple-Made-Easy
-3. Zebras all the way down (27 de fevereiro de 2019) - https://www.youtube.com/watch?v=fE2KDzZaxvE
-4. Mobile, Social, and Fashion: Three Stories from Data-Driven Design (21 de Março de 2019) - https://www.youtube.com/watch?v=r2kKHelhdBA
+# Próxima Sessão
+**Mobile, Social, and Fashion: Three Stories from Data-Driven Design** (21 de Março de 2019) - https://www.youtube.com/watch?v=r2kKHelhdBA
 
 
 # Sugestões
@@ -22,3 +17,12 @@ Designing a highly creative and productive work culture looks easy, but is actua
 8. Dave Malouf's keynote at ILA18, "DesignOps: Getting your team to great through operations" (2018) - https://www.youtube.com/watch?v=ee-VER8208M
 Essa é sobre ter uma pessoa com um cargo focado em enfiar cultura de design goela abaixo no business.
 9. Veronica Zammito's keynote at ILA18, "Raising the Game: Challenges and Opportunities on Maturing UX in Organizations" (2018) - https://www.youtube.com/watch?v=vjkKZTLJBi8 (não vi)
+
+
+# Histórico de Sessões da Cinelab
+Repositório das palestras/videos que assistimos no #cinelab
+
+1. The economics of Software Design (22 de janeiro de 2019) - https://www.youtube.com/watch?v=TQ9rng6YFeY
+2. Simple made easy (12 de fevereiro de 2019) - https://www.infoq.com/presentations/Simple-Made-Easy
+3. Zebras all the way down (27 de fevereiro de 2019) - https://www.youtube.com/watch?v=fE2KDzZaxvE
+4. Mobile, Social, and Fashion: Three Stories from Data-Driven Design (21 de Março de 2019) - https://www.youtube.com/watch?v=r2kKHelhdBA
