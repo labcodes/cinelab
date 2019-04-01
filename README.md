@@ -1,5 +1,6 @@
 # Próxima Sessão
 "Uncle" Bob Martin - **"The Future of Programming"** (04 de Abril de 2019) - https://www.youtube.com/watch?v=ecIWPzGEbFc
+![The Future of Programming - Uncle Bob](/posters/2019_04_04.png)
 
 # Sugestões
 Sugestões para as próximas sessões do #CINELAB
