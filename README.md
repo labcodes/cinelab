@@ -4,7 +4,6 @@
 # Sugestões
 Sugestões para as próximas sessões do #CINELAB
 
-2.  Lynn Root - "asyncio in Practive: We Did it Wrong" (2018) - https://www.youtube.com/watch?v=1lJDZx6f6tY
 3. Tragic Design - Cynthia Savard (2017) - https://www.youtube.com/watch?v=UbkO5YVI4HM&t=93s
 4. Work Culture Feijoada: 9 elements of innovation - Andrew Kaufteil (2017) - https://www.youtube.com/watch?v=MWddyfSbAho
 Designing a highly creative and productive work culture looks easy, but is actually hard work. In this talk, I will explain my transition from more traditional workplaces, like law firms and universities, to an innovative one. Using Cooper as a case study, I will explore nine steps you can take to create a culture of innovation at your organization.
