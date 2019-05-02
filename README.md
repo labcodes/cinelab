@@ -1,5 +1,5 @@
 # Próxima Sessão
-![Technical debt isn't technical - Einar W. Høst](/posters/2019_05_02.png)
+![Technical debt isn't technical - Einar W. Høst](/posters/2019_05_02.jpg)
 
 # Sugestões
 Sugestões para as próximas sessões do #CINELAB
