@@ -14,6 +14,7 @@ Designing a highly creative and productive work culture looks easy, but is actua
 8. Dave Malouf's keynote at ILA18, "DesignOps: Getting your team to great through operations" (2018) - https://www.youtube.com/watch?v=ee-VER8208M
 Essa é sobre ter uma pessoa com um cargo focado em enfiar cultura de design goela abaixo no business.
 9. Veronica Zammito's keynote at ILA18, "Raising the Game: Challenges and Opportunities on Maturing UX in Organizations" (2018) - https://www.youtube.com/watch?v=vjkKZTLJBi8 (não vi)
+10. André Staltz - O fim da Internet - BrazilJS Conf 2017 https://www.youtube.com/watch?v=CcDMWrH6VHU&t=1s
 
 
 # Histórico de Sessões da Cinelab
