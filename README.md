@@ -1,5 +1,5 @@
 # Próxima Sessão
-![Technical debt isn't technical - Einar W. Høst](/posters/2019_05_02.jpg)
+![Russell Keith-Magee - Pycon 2019 Keynote](/posters/2019_05_16.jpg)
 
 # Sugestões
 Sugestões para as próximas sessões do #CINELAB
@@ -26,3 +26,4 @@ Repositório das palestras/videos que assistimos no #cinelab
 4. Mobile, Social, and Fashion: Three Stories from Data-Driven Design (21 de Março de 2019) - https://www.youtube.com/watch?v=r2kKHelhdBA
 5.  "Uncle" Bob Martin - "The Future of Programming" (04 de Abril de 2019) - https://www.youtube.com/watch?v=ecIWPzGEbFc
 6. Einar W. Høst - Technical debt isn't technical (02 de Maio de 2019) - https://www.youtube.com/watch?v=CXyNZYDO07Q
+6. Russell Keith-Magee - Pycon 2019 Keynote (16 de Maio de 2019) - https://www.youtube.com/watch?v=ftP5BQh1-YM
