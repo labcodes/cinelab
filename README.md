@@ -13,8 +13,8 @@ Designing a highly creative and productive work culture looks easy, but is actua
 (6 e 7 são parecidas, talvez escolher entre elas. não assisti nenhuma das duas completa)
 8. Dave Malouf's keynote at ILA18, "DesignOps: Getting your team to great through operations" (2018) - https://www.youtube.com/watch?v=ee-VER8208M
 Essa é sobre ter uma pessoa com um cargo focado em enfiar cultura de design goela abaixo no business.
-9. Veronica Zammito's keynote at ILA18, "Raising the Game: Challenges and Opportunities on Maturing UX in Organizations" (2018) - https://www.youtube.com/watch?v=vjkKZTLJBi8 (não vi)
-10. André Staltz - O fim da Internet - BrazilJS Conf 2017 https://www.youtube.com/watch?v=CcDMWrH6VHU&t=1s
+9. André Staltz - O fim da Internet - BrazilJS Conf 2017 https://www.youtube.com/watch?v=CcDMWrH6VHU&t=1s
+10. Lea Verou - JS UX: Writing code for humans - BrazilJS 2016 https://www.youtube.com/watch?v=loj3CLHovt0
 
 
 # Histórico de Sessões da Cinelab
@@ -27,3 +27,4 @@ Repositório das palestras/videos que assistimos no #cinelab
 5.  "Uncle" Bob Martin - "The Future of Programming" (04 de Abril de 2019) - https://www.youtube.com/watch?v=ecIWPzGEbFc
 6. Einar W. Høst - Technical debt isn't technical (02 de Maio de 2019) - https://www.youtube.com/watch?v=CXyNZYDO07Q
 7. Russell Keith-Magee - Pycon 2019 Keynote (16 de Maio de 2019) - https://www.youtube.com/watch?v=ftP5BQh1-YM
+9. Veronica Zammito's keynote at ILA18, "Raising the Game: Challenges and Opportunities on Maturing UX in Organizations" (2018) - https://www.youtube.com/watch?v=vjkKZTLJBi8
