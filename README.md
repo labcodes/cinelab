@@ -19,10 +19,10 @@ Essa é sobre ter uma pessoa com um cargo focado em enfiar cultura de design goe
 # Histórico de Sessões da Cinelab
 Repositório das palestras/videos que assistimos no #cinelab
 
-1. [The economics of Software Design](JS UX: Writing code for humans ) - Exibido em: 22 de janeiro de 2019
-2. [Simple made easy](JS UX: Writing code for humans ) - Exibido em: 12 de fevereiro de 2019
-3. [Zebras all the way down](https://open.spotify.com/album/3uCW5dht5i4pFiaYPSV8Zq?si=n8wHaM7yR-q-rezftjZKRw) - Exibido em: 27 de fevereiro de 2019
-4. [Mobile, Social, and Fashion: Three Stories from Data-Driven Design](https://open.spotify.com/album/3uCW5dht5i4pFiaYPSV8Zq?si=n8wHaM7yR-q-rezftjZKRw) - Exibido em: 21 de Março de 2019
+1. [The economics of Software Design](https://www.youtube.com/watch?v=TQ9rng6YFeY), de J.B. Rainsberger - Exibido em: 22 de janeiro de 2019
+2. [Simple made easy](https://www.infoq.com/presentations/Simple-Made-Easy), de Rich Hickey - Exibido em: 12 de fevereiro de 2019
+3. [Zebras all the way down](https://www.youtube.com/watch?v=fE2KDzZaxvE), de Bryan Cantrill - Exibido em: 27 de fevereiro de 2019
+4. [Mobile, Social, and Fashion: Three Stories from Data-Driven Design](https://www.youtube.com/watch?v=r2kKHelhdBA), de Ranjitha Kumar - Exibido em: 21 de Março de 2019
 5. [The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc), de "Uncle" Bob Martin - Exibido em: 04 de Abril de 2019)
 6. [Technical debt isn't technical](https://www.youtube.com/watch?v=CXyNZYDO07Q), de Einar W. Høst - Exibido em: 02 de Maio de 2019
 7. [Pycon 2019 Keynote](https://www.youtube.com/watch?v=ftP5BQh1-YM), de Russell Keith-Magee - Exibido em: 16 de Maio de 2019
