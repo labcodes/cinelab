@@ -19,12 +19,14 @@ Essa é sobre ter uma pessoa com um cargo focado em enfiar cultura de design goe
 # Histórico de Sessões da Cinelab
 Repositório das palestras/videos que assistimos no #cinelab
 
-1. [The economics of Software Design](https://www.youtube.com/watch?v=TQ9rng6YFeY), de J.B. Rainsberger - Exibido em: 22 de janeiro de 2019
-2. [Simple made easy](https://www.infoq.com/presentations/Simple-Made-Easy), de Rich Hickey - Exibido em: 12 de fevereiro de 2019
-3. [Zebras all the way down](https://www.youtube.com/watch?v=fE2KDzZaxvE), de Bryan Cantrill - Exibido em: 27 de fevereiro de 2019
-4. [Mobile, Social, and Fashion: Three Stories from Data-Driven Design](https://www.youtube.com/watch?v=r2kKHelhdBA), de Ranjitha Kumar - Exibido em: 21 de Março de 2019
-5. [The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc), de "Uncle" Bob Martin - Exibido em: 04 de Abril de 2019)
-6. [Technical debt isn't technical](https://www.youtube.com/watch?v=CXyNZYDO07Q), de Einar W. Høst - Exibido em: 02 de Maio de 2019
-7. [Pycon 2019 Keynote](https://www.youtube.com/watch?v=ftP5BQh1-YM), de Russell Keith-Magee - Exibido em: 16 de Maio de 2019
-9. [Raising the Game: Challenges and Opportunities on Maturing UX in Organizations](https://www.youtube.com/watch?v=vjkKZTLJBi8), de Veronica Zammito (23 de Maio de 2018) -
-10. [JS UX: Writing code for humans](https://www.youtube.com/watch?v=loj3CLHovt0), de Lea Verou - Exibido em: 05 de Junho de 2019
+| Data                    | Título                                                                                                                        | Autorx              | Evento |
+|-------------------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------|--------|
+| 22 de Janeiro de 2019   | [The economics of Software Design](https://www.youtube.com/watch?v=TQ9rng6YFeY)                                               | J.B. Rainsberger    |        |
+| 12 de Fevereiro de 2019 |                                                      [Simple made easy](https://www.infoq.com/presentations/Simple-Made-Easy) | Rich Hickey         |        |
+| 27 de Fevereiro de 2019 | [Zebras all the way down](https://www.youtube.com/watch?v=fE2KDzZaxvE)                                                        | Bryan Cantrill      |        |
+| 21 de Março de 2019     | [Mobile, Social, and Fashion: Three Stories from Data-Driven Design](https://www.youtube.com/watch?v=r2kKHelhdBA)             | Ranjitha Kumar      |        |
+| 04 de Abril de 2019     | [The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc)                                                      | "Uncle" Bob Martin  |        |
+| 02 de Maio de 2019      | [Technical debt isn't technical](https://www.youtube.com/watch?v=CXyNZYDO07Q)                                                 | Einar W. Høst       |        |
+| 16 de Maio de 2019      | [Pycon 2019 Keynote](https://www.youtube.com/watch?v=ftP5BQh1-YM)                                                             | Russell Keith-Magee |        |
+| 23 de Maio de 2018      | [Raising the Game: Challenges and Opportunities on Maturing UX in Organizations](https://www.youtube.com/watch?v=vjkKZTLJBi8) | Veronica Zammito    |        |
+| 05 de Junho de 2019     | [JS UX: Writing code for humans](https://www.youtube.com/watch?v=loj3CLHovt0)                                                 | Lea Verou           |        |
