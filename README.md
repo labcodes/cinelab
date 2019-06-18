@@ -13,7 +13,6 @@ Designing a highly creative and productive work culture looks easy, but is actua
 (6 e 7 são parecidas, talvez escolher entre elas. não assisti nenhuma das duas completa)
 8. Dave Malouf's keynote at ILA18, "DesignOps: Getting your team to great through operations" (2018) - https://www.youtube.com/watch?v=ee-VER8208M
 Essa é sobre ter uma pessoa com um cargo focado em enfiar cultura de design goela abaixo no business.
-9. André Staltz - O fim da Internet - BrazilJS Conf 2017 https://www.youtube.com/watch?v=CcDMWrH6VHU&t=1s
 
 
 # Histórico de Sessões da Cinelab
@@ -30,3 +29,4 @@ Repositório das palestras/videos que assistimos no #cinelab
 | 16 de Maio de 2019      | [PyCon 2019 Keynote](https://www.youtube.com/watch?v=ftP5BQh1-YM)                                                             | Russell Keith-Magee | PyCon 2019                             |
 | 23 de Maio de 2018      | [Raising the Game: Challenges and Opportunities on Maturing UX in Organizations](https://www.youtube.com/watch?v=vjkKZTLJBi8) | Veronica Zammito    | ILA 2018                               |
 | 05 de Junho de 2019     | [JS UX: Writing code for humans](https://www.youtube.com/watch?v=loj3CLHovt0)                                                 | Lea Verou           | BrazilJS Conf 2016                     |
+| 19 de Junho de 2019     | [O Fim da Internet](https://www.youtube.com/watch?v=CcDMWrH6VHU)                                                 | André Staltz        | BrazilJS Conf 2017                     |
