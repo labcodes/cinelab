@@ -1,5 +1,5 @@
 # Próxima Sessão
-![Em cartaz](/posters/2019_06_05.png)
+![Em cartaz](/posters/2019_06_19.png)
 
 # Sugestões
 Sugestões para as próximas sessões do #CINELAB
