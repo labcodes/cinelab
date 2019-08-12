@@ -34,3 +34,4 @@ Repositório das palestras/videos que assistimos no #cinelab
 | 19 de Junho de 2019     | [O Fim da Internet](https://www.youtube.com/watch?v=CcDMWrH6VHU)                                                              | André Staltz        | BrazilJS Conf 2017                     |
 | 10 de Julho de 2019     | [Let's build a web framework](https://www.youtube.com/watch?v=7kwnjoAJ2HQ) - Part 1                                           | Jacob Kaplan Moss   | PyCon 2017                             |
 | 31 de Julho de 2019     | [Let's build a web framework](https://www.youtube.com/watch?v=7kwnjoAJ2HQ) - Part 2                                           | Jacob Kaplan Moss   | PyCon 2017                             |
+| 14 de Agosto de 2019    | [The secrets data won't tell you](https://www.youtube.com/watch?v=pp6oYNdv2cc)                                                | Vicki Tan           | Nordic.design 2018                     |
