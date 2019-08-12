@@ -18,7 +18,7 @@ Repositório das palestras/videos que assistimos no #cinelab
 | 04 de Abril de 2019     | [The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc)                                                      | "Uncle" Bob Martin  |  Skills Matter 2016                    |
 | 21 de Março de 2019     | [Mobile, Social, and Fashion: Three Stories from Data-Driven Design](https://www.youtube.com/watch?v=r2kKHelhdBA)             | Ranjitha Kumar      | Stanford Seminar 2018                  |
 | 27 de Fevereiro de 2019 | [Zebras all the way down](https://www.youtube.com/watch?v=fE2KDzZaxvE)                                                        | Bryan Cantrill      | Code & Supply's Uptime Conference 2017 |
-| 12 de Fevereiro de 2019 |                                                      [Simple made easy](https://www.infoq.com/presentations/Simple-Made-Easy) | Rich Hickey         |  InfoQ                                 |
+| 12 de Fevereiro de 2019 | [Simple made easy](https://www.infoq.com/presentations/Simple-Made-Easy)                                                      | Rich Hickey         |  InfoQ                                 |
 | 22 de Janeiro de 2019   | [The economics of Software Design](https://www.youtube.com/watch?v=TQ9rng6YFeY)                                               | J.B. Rainsberger    | DevTernity 2018                        |
 
 # Sugestões
