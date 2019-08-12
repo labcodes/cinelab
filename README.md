@@ -1,21 +1,6 @@
 # Próxima Sessão
 ![Em cartaz](/posters/2019_06_19.png)
 
-# Sugestões
-Sugestões para as próximas sessões do #CINELAB
-
-3. Tragic Design - Cynthia Savard (2017) - https://www.youtube.com/watch?v=UbkO5YVI4HM&t=93s
-4. Work Culture Feijoada: 9 elements of innovation - Andrew Kaufteil (2017) - https://www.youtube.com/watch?v=MWddyfSbAho
-Designing a highly creative and productive work culture looks easy, but is actually hard work. In this talk, I will explain my transition from more traditional workplaces, like law firms and universities, to an innovative one. Using Cooper as a case study, I will explore nine steps you can take to create a culture of innovation at your organization.
-5. Nudges: Influencing User behavior - Russel Parrish (2017) - https://www.youtube.com/watch?v=5vlNzSbVopM
-6. Kim Goodwin's keynote at ILA18, "Bring Back Human-Centered" (2018) - https://www.youtube.com/watch?v=KPjWcuZF_gE
-7. Rama Gheerawo's keynote at ILA18, "Design to Make a Difference: inclusive design and interactions" (2018) - https://www.youtube.com/watch?v=U9Qhzt1xGVc
-(6 e 7 são parecidas, talvez escolher entre elas. não assisti nenhuma das duas completa)
-8. Dave Malouf's keynote at ILA18, "DesignOps: Getting your team to great through operations" (2018) - https://www.youtube.com/watch?v=ee-VER8208M
-Essa é sobre ter uma pessoa com um cargo focado em enfiar cultura de design goela abaixo no business.
-9. Michael Jackson (sério): Never Write Another HoC https://www.youtube.com/watch?v=BcVAq3YFiuc Fala sobre a história dos HoCs e quais são (e como são resolvidos) os grandes problemas desse padrão de design de componentes
-10. Nothins is Something - Sandi Metz - https://www.youtube.com/watch?v=OMPfEXIlTVE
-
 
 # Histórico de Sessões da Cinelab
 Repositório das palestras/videos que assistimos no #cinelab
@@ -35,3 +20,18 @@ Repositório das palestras/videos que assistimos no #cinelab
 | 27 de Fevereiro de 2019 | [Zebras all the way down](https://www.youtube.com/watch?v=fE2KDzZaxvE)                                                        | Bryan Cantrill      | Code & Supply's Uptime Conference 2017 |
 | 12 de Fevereiro de 2019 |                                                      [Simple made easy](https://www.infoq.com/presentations/Simple-Made-Easy) | Rich Hickey         |  InfoQ                                 |
 | 22 de Janeiro de 2019   | [The economics of Software Design](https://www.youtube.com/watch?v=TQ9rng6YFeY)                                               | J.B. Rainsberger    | DevTernity 2018                        |
+
+# Sugestões
+Sugestões para as próximas sessões do #CINELAB
+
+3. Tragic Design - Cynthia Savard (2017) - https://www.youtube.com/watch?v=UbkO5YVI4HM&t=93s
+4. Work Culture Feijoada: 9 elements of innovation - Andrew Kaufteil (2017) - https://www.youtube.com/watch?v=MWddyfSbAho
+Designing a highly creative and productive work culture looks easy, but is actually hard work. In this talk, I will explain my transition from more traditional workplaces, like law firms and universities, to an innovative one. Using Cooper as a case study, I will explore nine steps you can take to create a culture of innovation at your organization.
+5. Nudges: Influencing User behavior - Russel Parrish (2017) - https://www.youtube.com/watch?v=5vlNzSbVopM
+6. Kim Goodwin's keynote at ILA18, "Bring Back Human-Centered" (2018) - https://www.youtube.com/watch?v=KPjWcuZF_gE
+7. Rama Gheerawo's keynote at ILA18, "Design to Make a Difference: inclusive design and interactions" (2018) - https://www.youtube.com/watch?v=U9Qhzt1xGVc
+(6 e 7 são parecidas, talvez escolher entre elas. não assisti nenhuma das duas completa)
+8. Dave Malouf's keynote at ILA18, "DesignOps: Getting your team to great through operations" (2018) - https://www.youtube.com/watch?v=ee-VER8208M
+Essa é sobre ter uma pessoa com um cargo focado em enfiar cultura de design goela abaixo no business.
+9. Michael Jackson (sério): Never Write Another HoC https://www.youtube.com/watch?v=BcVAq3YFiuc Fala sobre a história dos HoCs e quais são (e como são resolvidos) os grandes problemas desse padrão de design de componentes
+10. Nothins is Something - Sandi Metz - https://www.youtube.com/watch?v=OMPfEXIlTVE
