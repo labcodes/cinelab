@@ -1,5 +1,5 @@
 # Próxima Sessão
-![Em cartaz](/posters/2019_06_19.png)
+![Em cartaz](/posters/2019_08_14.png)
 
 
 # Histórico de Sessões da Cinelab
