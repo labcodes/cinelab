@@ -14,6 +14,7 @@ Designing a highly creative and productive work culture looks easy, but is actua
 8. Dave Malouf's keynote at ILA18, "DesignOps: Getting your team to great through operations" (2018) - https://www.youtube.com/watch?v=ee-VER8208M
 Essa é sobre ter uma pessoa com um cargo focado em enfiar cultura de design goela abaixo no business.
 9. Michael Jackson (sério): Never Write Another HoC https://www.youtube.com/watch?v=BcVAq3YFiuc Fala sobre a história dos HoCs e quais são (e como são resolvidos) os grandes problemas desse padrão de design de componentes
+10. Nothins is Something - Sandi Metz - https://www.youtube.com/watch?v=OMPfEXIlTVE
 
 
 # Histórico de Sessões da Cinelab
