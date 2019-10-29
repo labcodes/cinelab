@@ -35,3 +35,4 @@ Designing a highly creative and productive work culture looks easy, but is actua
 Essa é sobre ter uma pessoa com um cargo focado em enfiar cultura de design goela abaixo no business.
 9. Michael Jackson (sério): Never Write Another HoC https://www.youtube.com/watch?v=BcVAq3YFiuc Fala sobre a história dos HoCs e quais são (e como são resolvidos) os grandes problemas desse padrão de design de componentes
 10. Nothins is Something - Sandi Metz - https://www.youtube.com/watch?v=OMPfEXIlTVE
+11. The End Of Object Inheritance & The Beginning Of A New Modularity - https://www.youtube.com/watch?v=3MNVP9-hglc
